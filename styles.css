@@ -133,3 +133,40 @@ h1 {
     left: 600px;
 
 }
+
+#in {
+    position: relative;
+    bottom: 630px;
+    left: 30px;
+    color: black;
+    text-align: center;
+}
+
+#btnContainer {
+    position: relative;
+    bottom: 660px;
+    
+   
+}
+
+button {
+    font-family: "Nunito";
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    background-color: rgb(189, 189, 242);
+    transition: background-color 0.25s;
+}
+
+button:hover {
+    background-color: rgb(232, 210, 251);
+    
+}
+
+label {
+    position: relative;
+    color: black;
+    font-family: "Nunito";
+    bottom: 650px;
+    left: 200px;
+}
