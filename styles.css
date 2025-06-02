@@ -1,0 +1,135 @@
+body {
+    background-image: url(Untitled\ 3.webp);
+    overflow-x: hidden;
+}
+
+
+.cover {
+    width: 17%;
+    height: auto;
+    
+    position: relative;
+    bottom: 74px;
+}
+
+.ponce {
+    width: 23%;
+    height: auto;
+    position: relative;
+    bottom: 850px;
+    left: 77%;
+}
+
+h1 {
+    color: white;
+    font-family: "Nunito";
+    position: relative;
+    left: 20%;
+    bottom: 22px;
+}
+#nonTitleText {
+    color: white;
+    font-family: "Nunito";
+    }
+
+#section1_about {
+    position: relative;
+    left: 30%;
+    bottom: 270px;
+}
+#synopsis {
+    position: relative;
+    left: 20%;
+}
+.Pedro {
+    width: 5%;
+    height: auto;
+    position: relative;
+    top: 1%;
+    bottom: 725px;
+    right: 150px;
+}
+
+#name1 {
+    position: relative;
+    top: 50px;
+    left: 130px;
+}
+
+.Blanca {
+    width: 5%;
+    height: auto;
+    position: relative;
+    bottom: 695px;
+    left: 270px;
+}
+
+#name2 {
+    position: relative;
+    bottom: 90px;
+    left: 640px;
+}
+
+.barbero {
+    width: 7%;
+    height: auto;
+    position: relative;
+    bottom: 690px;
+    left: 650px;
+}
+
+#name3 {
+    position: relative;
+    bottom: 190px;
+    left: 1050px;
+    
+}
+#quote1s {
+    position: relative;
+    bottom: 700px;
+    right: 470px;
+    color: white;
+    font-family: "Nunito";
+    size: smaller;
+}
+
+#quote2 {
+    position: relative;
+    bottom: 740px;
+    left: 15px;
+    color: white;
+    font-family: "Nunito";
+}
+
+#about {
+    position: relative;
+    bottom: 300px;
+    left: 9%;
+}
+
+.synopsis {
+    position: relative;
+    right: 250px; /* you dont wanna know how long it fucking took for me to make this shit work */
+    
+    
+    bottom: 100px;
+}
+
+.aPedro {
+    position: relative;
+    top: 120px;
+    right: 440px;
+}
+
+.aBlanca {
+    position: relative;
+    bottom: 90px;
+    left: 50px;
+}
+
+.aVidal {
+    position: relative;
+    bottom: 200px;
+    left: 600px;
+
+}
